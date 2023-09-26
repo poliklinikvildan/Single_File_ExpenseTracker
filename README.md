@@ -49,5 +49,9 @@ The program will generate visualizations for these expenses, helping one to mana
 
 This program relies on the `matplotlib` library for data visualization. To install `matplotlib`, you can use pip by running the following command in your terminal or command prompt:
 
+
+```bash
 pip install matplotlib
+```
+
 
