@@ -45,7 +45,10 @@ expenses = [300, 500, 200, 100]
 
 The program will generate visualizations for these expenses, helping you manage your finances and make informed financial decisions.
 
-Dependencies
-This program uses the matplotlib library for data visualization. You can install it using pip:
+## Dependencies
 
+This program relies on the `matplotlib` library for data visualization. To install `matplotlib`, you can use pip by running the following command in your terminal or command prompt:
+
+```bash
 pip install matplotlib
+
