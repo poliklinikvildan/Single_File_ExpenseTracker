@@ -1,8 +1,8 @@
-# Expense Tracker
+# A Single File Python Expense Tracker 
 
 ## Overview
 
-Expense Tracker is a Python program designed to help individuals or organizations efficiently manage and visualize their expenses. It allows users to input their expense categories and corresponding expense amounts, and then provides two visual representations of expenses: a pie chart displaying the distribution of expenses across categories and a table showing detailed information about each expense category.
+A Python program designed to help individuals or organizations efficiently manage and visualize their expenses. It allows users to input their expense categories and corresponding expense amounts, and then provides two visual representations of expenses: a pie chart displaying the distribution of expenses across categories and a table showing detailed information about each expense category.
 
 ## Input Data
 
