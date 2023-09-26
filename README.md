@@ -38,17 +38,17 @@ The program also checks for negative expenses. If any negative expenses are dete
 
 ## Example
 
-Suppose your input data looks like this:
-```python
+Suppose the input data looks like this:
+
 categories = ['Food', 'Rent', 'Transportation', 'Entertainment']
 expenses = [300, 500, 200, 100]
 
-The program will generate visualizations for these expenses, helping you manage your finances and make informed financial decisions.
+The program will generate visualizations for these expenses, helping one to manage finances and make informed financial decisions.
 
 ## Dependencies
 
 This program relies on the `matplotlib` library for data visualization. To install `matplotlib`, you can use pip by running the following command in your terminal or command prompt:
 
-```bash
+
 pip install matplotlib
 
